@@ -1,6 +1,6 @@
 <samp>
 
-### Hi, i'm Christian Michele.
+# Hi, i'm Christian Michele.
 
 
 ### Skills: 
@@ -11,7 +11,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-### 📫 How to reach me:
+### Contact:
     
-   noctisumire@gmail.com
+   ### noctisumire@gmail.com
 </samp>
