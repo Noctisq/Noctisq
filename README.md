@@ -2,6 +2,7 @@
 
 # Hi, i'm Christian Michele.
 
+<img src="https://github.com/Noctisq/Noctisq/blob/master/1CMjs.png"/>
 
 ### Skills: 
 
